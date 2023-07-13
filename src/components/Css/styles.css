@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.nav{
+    
+}
+.nav-list{
+    list-style:none;
+    display:flex;
+    background-color: aquamarine;
+    padding:1rem;
+}
+
+.nav-list li{
+    margin:5px;
+}
+
+.nav-list li a{
+    text-decoration: none;
+}

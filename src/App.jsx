@@ -1,4 +1,5 @@
-import './App.css'
+import React from 'react';
+import './components/Css/styles.css'
 import Navbar from './components/navbar'
 
 
@@ -10,4 +11,4 @@ const App = () => {
   )
 }
 
-export default App
+export default App 
